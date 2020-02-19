@@ -1,0 +1,98 @@
+/* CSS */
+
+
+body
+{
+	text-align: center;
+}
+
+
+.column {
+  float: left;
+  width: 20%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+.imgButton
+{
+		border-radius: 12px;
+		
+		
+}
+.imgButton: hover
+{
+
+}
+
+
+.link a
+{
+  background-color: #828282; 
+  border: 1px solid black;
+ 
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  width: 150px;
+  display: block;
+  margin-left: 50px;
+	
+}
+
+.link a:hover {
+	background-color: #474747;
+}
+
+#mainContent
+{
+	margin-top: 10px;
+}
+
+#saucer
+{
+		 margin: 20px;
+         width: 200px;
+         height: 200px;
+		 cursor: pointer;
+}
+#meddle
+{
+		 margin: 20px;
+         width: 200px;
+         height: 200px;
+		 cursor: pointer;
+}
+#animals
+{
+		 margin: 20px;
+         width: 200px;
+         height: 200px;
+		 cursor: pointer;
+}
+#wall
+{
+		 margin: 20px;
+         width: 200px;
+         height: 200px;
+		 cursor: pointer;
+}
+#dark
+{
+		 margin: 20px;
+         width: 200px;
+         height: 200px;
+		 cursor: pointer;
+}
+
+
+
